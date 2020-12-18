@@ -1,0 +1,1 @@
+# django_template_inheritance_Rel_url_concept
